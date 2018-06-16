@@ -13,3 +13,4 @@ Language: Czech
 ![alt text](https://github.com/MatejFrnka/-FileCommander/blob/master/Images/Commander4.png)
 ### Editing text files
 ![alt text](https://github.com/MatejFrnka/-FileCommander/blob/master/Images/Commander5.png)
+### Copying, renaming and more.
