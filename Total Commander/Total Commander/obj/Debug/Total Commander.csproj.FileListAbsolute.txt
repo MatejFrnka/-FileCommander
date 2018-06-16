@@ -1,0 +1,91 @@
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+Z:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+X:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+X:\ZPR\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+X:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+X:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+X:\ZPR\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+D:\Matej\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+\\MATĚJ-PC\Sdílená Složka\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+C:\Users\matej\Desktop\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 5\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+C:\Users\matej\Desktop\TotalCommander 5.2\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+D:\Matej\Google\TotalCommander 5.3\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+D:\Matej\Google\TotalCommander 6\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+X:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe.config
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.exe
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\bin\Debug\Total Commander.pdb
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csprojResolveAssemblyReference.cache
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.csproj.CoreCompileInputs.cache
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.exe
+Z:\ZPR\TotalCommander 8\TotalCommander\Total Commander\Total Commander\obj\Debug\Total Commander.pdb
